@@ -41,7 +41,8 @@ const resources = {
         member4: {
           name: 'Samuiku',
           role: 'Art Director'
-        }
+        },
+        specialThanks: "Special Thanks: Erennai, Naling"
       }
     }
   },
@@ -82,7 +83,8 @@ const resources = {
         member4: {
           name: 'Samuiku',
           role: '艺术总监'
-        }
+        },
+         specialThanks: "特别感谢: Erennai, Naling"
       }
     }
   },
@@ -119,7 +121,12 @@ const resources = {
         member3: {
           name: 'ジェームズ・キム',
           role: 'ナラティブデザイナー'
-        }
+        },
+        member4: {
+          name: 'Samuiku',
+          role: 'Art Director'
+        },
+        specialThanks: "Special Thanks: Erennai, Naling"
       }
     }
   }

@@ -37,6 +37,9 @@ function Team() {
           )
         })}
       </div>
+      <p className="special-thanks">
+        {t('team.specialThanks')}
+      </p>
     </div>
   )
 }
