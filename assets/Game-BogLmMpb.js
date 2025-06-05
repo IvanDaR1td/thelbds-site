@@ -1,1 +1,0 @@
-import{u as s,j as e}from"./index-BEU-k_yN.js";function t(){const{t:a}=s();return e.jsxs("div",{className:"page game-page content-container",children:[e.jsx("h2",{children:a("game.title")}),e.jsx("p",{children:a("game.description")}),e.jsx("div",{className:"placeholder",children:a("placeholder")})]})}export{t as default};
