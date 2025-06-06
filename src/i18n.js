@@ -39,7 +39,7 @@ const resources = {
           role: 'Art Director · Developer · Lead Composer'
         },
         member4: {
-          name: 'Samuiku',
+          name: 'Pine9_19',
           role: 'Art Director'
         },
         specialThanks: "Special Thanks : Erennai ｜ Naling "
@@ -81,7 +81,7 @@ const resources = {
           role: '美术总监 · 开发 · 主作曲'
         },
         member4: {
-          name: 'Samuiku',
+          name: 'Pine9_19',
           role: '美术总监'
         },
          specialThanks: "特别鸣谢:  Erennai ｜ Naling "
@@ -123,7 +123,7 @@ const resources = {
           role: 'アートディレクター・デベロッパー・リード作曲家'
         },
         member4: {
-          name: 'Samuiku',
+          name: 'Pine9_19',
           role: 'アートディレクター'
         },
         specialThanks: "Special Thanks : Erennai ｜ Naling "
