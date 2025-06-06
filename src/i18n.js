@@ -28,7 +28,7 @@ const resources = {
         title: 'Devs',
         member1: {
           name: 'Ivan Chan',
-          role: 'Founder/Story Director/Co-Developer/Soundtrack Composer'
+          role: 'Founder/Story Director/Lead Developer/Soundtrack Composer'
         },
         member2: {
           name: 'Anson Ling Guang Cheng',
@@ -70,7 +70,7 @@ const resources = {
         title: '开发者',
         member1: {
           name: 'Ivan Chan',
-          role: '创始人/故事总监/合作开发者/配乐作曲家'
+          role: '创始人/编剧/首席开发者/配乐作曲家'
         },
         member2: {
           name: 'Anson Ling Guang Cheng',
