@@ -28,21 +28,21 @@ const resources = {
         title: 'Devs',
         member1: {
           name: 'Ivan Chan',
-          role: 'Founder/Story Director/Lead Developer/Soundtrack Composer'
+          role: 'Co-Founder · Story Director · Writer · Chief Developer · Composer'
         },
         member2: {
           name: 'Anson Ling Guang Cheng',
-          role: 'Founder/Lead Developer'
+          role: 'Co-Founder · Chief Developer · Technical Lead'
         },
         member3: {
           name: 'Taydon Ling',
-          role: 'Art Director/Co-Developer/Soundtrack Composer'
+          role: 'Art Director · Developer · Lead Composer'
         },
         member4: {
           name: 'Samuiku',
           role: 'Art Director'
         },
-        specialThanks: "Special Thanks: Erennai, Naling"
+        specialThanks: "Special Thanks : Erennai ｜ Naling "
       }
     }
   },
@@ -70,21 +70,21 @@ const resources = {
         title: '开发者',
         member1: {
           name: 'Ivan Chan',
-          role: '创始人/编剧/首席开发者/配乐作曲家'
+          role: '联合创始人 · 剧情总监 · 编剧 · 首席开发 · 作曲'
         },
         member2: {
           name: 'Anson Ling Guang Cheng',
-          role: '创始人/首席开发者'
+          role: '联合创始人 · 首席开发 · 技术主管 '
         },
         member3: {
           name: 'Taydon Ling',
-          role: '艺术总监/合作开发者/配乐作曲家'
+          role: '美术总监 · 开发 · 主作曲'
         },
         member4: {
           name: 'Samuiku',
-          role: '艺术总监'
+          role: '美术总监'
         },
-         specialThanks: "特别感谢: Erennai, Naling"
+         specialThanks: "特别鸣谢:  Erennai ｜ Naling "
       }
     }
   },
@@ -109,24 +109,24 @@ const resources = {
         entryTitle: '開発ログ #{{number}}'
       },
       team: {
-        title: '私たちのチーム',
+        title: '開発者',
         member1: {
-          name: 'アレックス・チェン',
-          role: 'クリエイティブディレクター'
+          name: 'Ivan Chan',
+          role: '共同創設者・ストーリーディレクター・脚本家・チーフデベロッパー・作曲家'
         },
         member2: {
-          name: 'マヤ・ロドリゲス',
-          role: 'リードデベロッパー'
+          name: 'Anson Ling Guang Cheng',
+          role: '共同創設者・チーフデベロッパー・テクニカルリード'
         },
         member3: {
-          name: 'ジェームズ・キム',
-          role: 'ナラティブデザイナー'
+          name: 'Taydon Ling',
+          role: 'アートディレクター・デベロッパー・リード作曲家'
         },
         member4: {
           name: 'Samuiku',
-          role: 'Art Director'
+          role: 'アートディレクター'
         },
-        specialThanks: "Special Thanks: Erennai, Naling"
+        specialThanks: "Special Thanks : Erennai ｜ Naling "
       }
     }
   }
